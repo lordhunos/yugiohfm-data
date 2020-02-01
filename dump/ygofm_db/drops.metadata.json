@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"ygofm_db.drops"}],"uuid":"80a6648b513745979b5c7414eda0073d"}

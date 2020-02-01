@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"ygofm_db.rivals"}],"uuid":"0e86d94804404a4f8f282386d7c9f0fe"}

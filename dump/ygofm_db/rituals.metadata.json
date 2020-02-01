@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"ygofm_db.rituals"}],"uuid":"b1f418a295124dccbc596802b6e5ef2c"}
